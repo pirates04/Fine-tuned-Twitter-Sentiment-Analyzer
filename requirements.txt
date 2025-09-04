@@ -1,0 +1,8 @@
+transformers>=4.30
+datasets>=2.12
+evaluate
+scikit-learn
+pandas
+numpy
+torch
+matplotlib
